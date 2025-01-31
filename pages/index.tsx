@@ -78,7 +78,7 @@ export default function Home() {
 const sliderData = [
   
   {
-    img: "/11.jpeg",
+    img: "/102.jpeg",
     location: "The Big B",
     description:
       "The knowledgeful mentor, who grabbed our hand since Learning TypeScript and made us what we are today.",
